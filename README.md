@@ -15,7 +15,7 @@ He no longer thinks about the manuscript. Only about reaching home.
 If that's even possible...
 
 <p align="center">
-  <img src="https://github.com/whyhvru/gamejam-maw-2025/blob/main/screenshot-1.png?raw=true" width="80%">
+  <img src="https://github.com/whyhvru/gamejam-maw-2025/blob/0d57533f2a9c7c449d56f3915ab363d7d2c9c35b/screenshot-1.png?raw=true" width="80%">
 </p>
 
 ## Features
