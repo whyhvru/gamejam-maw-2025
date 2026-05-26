@@ -8,13 +8,9 @@ Six months ago, he accepted a questionable offer — to rewrite a forbidden manu
 
 Seven entered. One returned.
 
-Now he walks home to his family through a cursed forest known as the Maw.
+Now he walks home to his family through a cursed forest known as the Maw. Here, creatures thirst for blood, while the fog suffocates the flesh and denies death itself.
 
-Here, creatures thirst for blood, while the fog suffocates the flesh and denies death itself.
-
-He no longer thinks about the manuscript.
-
-Only about reaching home.
+He no longer thinks about the manuscript. Only about reaching home.
 
 If that's even possible...
 
